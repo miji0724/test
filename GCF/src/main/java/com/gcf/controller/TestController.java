@@ -8,5 +8,5 @@ import lombok.RequiredArgsConstructor;
 
 
 public class TestController {
-	System.out.println("hijkojda");
+	System.out.println("hiㅎㅎ");
 }
