@@ -8,6 +8,6 @@ import lombok.RequiredArgsConstructor;
 
 
 public class TestController {
-	System.out.println("hello");hhh
+	System.out.println("hello");
 }
 	
